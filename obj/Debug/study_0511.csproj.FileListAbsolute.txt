@@ -1,0 +1,48 @@
+C:\Users\H319-38\source\repos\study_0511\study_0511\bin\Debug\study_0511.exe.config
+C:\Users\H319-38\source\repos\study_0511\study_0511\bin\Debug\study_0511.exe
+C:\Users\H319-38\source\repos\study_0511\study_0511\bin\Debug\study_0511.pdb
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.csproj.AssemblyReference.cache
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.csproj.SuggestedBindingRedirects.cache
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.Form1.resources
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.Properties.Resources.resources
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.csproj.GenerateResource.cache
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.csproj.CoreCompileInputs.cache
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.exe
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.pdb
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.Form2.resources
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.Form3.resources
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.frmDocument.resources
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.frmDocument2.resources
+C:\Users\H319-38\source\repos\study_0511\study_0511\obj\Debug\study_0511.FormCount.resources
+E:\EMR\sunam\study_0511\study_0511\bin\Debug\study_0511.exe.config
+E:\EMR\sunam\study_0511\study_0511\bin\Debug\study_0511.exe
+E:\EMR\sunam\study_0511\study_0511\bin\Debug\study_0511.pdb
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.csproj.AssemblyReference.cache
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.csproj.SuggestedBindingRedirects.cache
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.Form1.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.Form2.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.Form3.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.FormCount.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.frmDocument.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.frmDocument2.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.Properties.Resources.resources
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.csproj.GenerateResource.cache
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.csproj.CoreCompileInputs.cache
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.exe
+E:\EMR\sunam\study_0511\study_0511\obj\Debug\study_0511.pdb
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\bin\Debug\study_0511.exe.config
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\bin\Debug\study_0511.exe
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\bin\Debug\study_0511.pdb
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.csproj.AssemblyReference.cache
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.csproj.SuggestedBindingRedirects.cache
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.Form1.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.Form2.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.Form3.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.FormCount.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.frmDocument.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.frmDocument2.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.Properties.Resources.resources
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.csproj.GenerateResource.cache
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.csproj.CoreCompileInputs.cache
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.exe
+C:\Users\tnska\OneDrive\바탕 화면\study_0511\study_0511\obj\Debug\study_0511.pdb
